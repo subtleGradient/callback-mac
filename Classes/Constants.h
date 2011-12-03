@@ -10,9 +10,5 @@
 
 #define kStartPage @"index.html"
 
-//Sencha Demos
-//#define kStartFolder @"www/sencha"
-
-// callback Docs Only
-#define kStartFolder @"www/phonegap-docs/template/phonegap/"
+#define kStartFolder @"."
 
