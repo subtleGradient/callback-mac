@@ -13,7 +13,6 @@
 		3070C2DB118B65E400245025 /* Utils.m in Sources */ = {isa = PBXBuildFile; fileRef = 3070C2DA118B65E400245025 /* Utils.m */; };
 		3070C365118B845100245025 /* WebViewDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 3070C364118B845100245025 /* WebViewDelegate.m */; };
 		3070C381118B8DB100245025 /* Sound.m in Sources */ = {isa = PBXBuildFile; fileRef = 3070C380118B8DB100245025 /* Sound.m */; };
-		30E7C933116EC163003E991E /* www in Resources */ = {isa = PBXBuildFile; fileRef = 30E7C930116EC163003E991E /* www */; };
 		30EAE82C117C643400363693 /* ContentView.m in Sources */ = {isa = PBXBuildFile; fileRef = 30EAE82B117C643400363693 /* ContentView.m */; };
 		488D5A9613C9193100F585E0 /* Callback.icns in Resources */ = {isa = PBXBuildFile; fileRef = 488D5A9513C9193100F585E0 /* Callback.icns */; };
 		8D11072B0486CEB800E47090 /* InfoPlist.strings in Resources */ = {isa = PBXBuildFile; fileRef = 089C165CFE840E0CC02AAC07 /* InfoPlist.strings */; };
@@ -40,7 +39,6 @@
 		3070C37F118B8DB100245025 /* Sound.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = Sound.h; path = Classes/Commands/Sound.h; sourceTree = "<group>"; };
 		3070C380118B8DB100245025 /* Sound.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = Sound.m; path = Classes/Commands/Sound.m; sourceTree = "<group>"; };
 		30E7C90C116EBF21003E991E /* Constants.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = Constants.h; path = Classes/Constants.h; sourceTree = "<group>"; };
-		30E7C930116EC163003E991E /* www */ = {isa = PBXFileReference; lastKnownFileType = folder; path = www; sourceTree = "<group>"; };
 		30EAE82A117C643400363693 /* ContentView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = ContentView.h; path = Classes/ContentView.h; sourceTree = "<group>"; };
 		30EAE82B117C643400363693 /* ContentView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = ContentView.m; path = Classes/ContentView.m; sourceTree = "<group>"; };
 		488D5A9513C9193100F585E0 /* Callback.icns */ = {isa = PBXFileReference; lastKnownFileType = image.icns; path = Callback.icns; sourceTree = "<group>"; };
@@ -108,7 +106,6 @@
 		29B97314FDCFA39411CA2CEA /* callback-mac */ = {
 			isa = PBXGroup;
 			children = (
-				30E7C930116EC163003E991E /* www */,
 				080E96DDFE201D6D7F000001 /* Classes */,
 				29B97315FDCFA39411CA2CEA /* Other Sources */,
 				29B97317FDCFA39411CA2CEA /* Resources */,
@@ -209,7 +206,6 @@
 			files = (
 				8D11072B0486CEB800E47090 /* InfoPlist.strings in Resources */,
 				1DDD58160DA1D0A300B32029 /* MainMenu.xib in Resources */,
-				30E7C933116EC163003E991E /* www in Resources */,
 				488D5A9613C9193100F585E0 /* Callback.icns in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
