@@ -1,6 +1,6 @@
 /*
  *  Constants.h
- *  phonegap-mac
+ *  callback-mac
  *
  *  Created by shazron on 10-04-08.
  *  Copyright 2010 Nitobi Software Inc. All rights reserved.
@@ -13,6 +13,6 @@
 //Sencha Demos
 //#define kStartFolder @"www/sencha"
 
-// PhoneGap Docs Only
+// callback Docs Only
 #define kStartFolder @"www/phonegap-docs/template/phonegap/"
 

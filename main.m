@@ -1,6 +1,6 @@
 //
 //  main.m
-//  phonegap-mac
+//  callback-mac
 //
 //  Created by shazron on 10-04-08.
 //  Copyright 2010 __MyCompanyName__. All rights reserved.

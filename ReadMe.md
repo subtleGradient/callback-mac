@@ -1,7 +1,7 @@
-MacGap OSX
+Callback OSX
 
 =============================================================
-MacGap aims to provide HTML/JS/CSS developers an xCode project for developing Native OSX Apps that run in UIWebView and take advantage of WebKit technologies. 
+Callback mac aims to provide HTML/JS/CSS developers an xCode project for developing Native OSX Apps that run in UIWebView and take advantage of WebKit technologies. 
 
  
 Pre-requisites

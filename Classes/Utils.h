@@ -1,6 +1,6 @@
 //
 //  Utils.h
-//  phonegap-mac
+//  callback-mac
 //
 //  Shazron Abdullah
 //  Copyright 2010 Nitobi Software Inc. All rights reserved.

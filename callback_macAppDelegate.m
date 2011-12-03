@@ -1,14 +1,14 @@
 //
-//  phonegap_macAppDelegate.m
-//  phonegap-mac
+//  callback_macAppDelegate.m
+//  callback-mac
 //
 //  Created by shazron on 10-04-08.
 //  Copyright 2010 Nitobi Software Inc. All rights reserved.
 //
 
-#import "phonegap_macAppDelegate.h"
+#import "callback_macAppDelegate.h"
 
-@implementation phonegap_macAppDelegate
+@implementation callback_macAppDelegate
 
 @synthesize window, contentView;
 

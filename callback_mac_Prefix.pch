@@ -1,5 +1,5 @@
 //
-// Prefix header for all source files of the 'phonegap-mac' target in the 'phonegap-mac' project
+// Prefix header for all source files of the 'callback-mac' target in the 'callback-mac' project
 //
 
 #ifdef __OBJC__
