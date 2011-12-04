@@ -22,7 +22,7 @@
 	[self.webView setResourceLoadDelegate:self.delegate];
 	[self.webView setDownloadDelegate:self.delegate];
 	[self.webView setPolicyDelegate:self.delegate];	
-    //self.window.backgroundColor = [NSColor colorWithCalibratedRed:0.933 green:0.933 blue:0.933 alpha:1.000];
+    [self.webView setDrawsBackground:NO];
 }
 
 - (id)initWithFrame:(NSRect)frame 
